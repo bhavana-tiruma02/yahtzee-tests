@@ -30,10 +30,6 @@ public class CheckYahtzeeSteps {
         given()
                 .auth().preemptive().basic("admin", "snakeeyes")
                 .body("{ \"id\": 5, \"value\": 6 }").put("/die");
-
-        given()
-                .auth().preemptive().basic("admin", "snakeeyes")
-                .body("{ \"id\": 6, \"value\": 6 }").put("/die");
     }
 
     @Given("the five dice have different values")
@@ -56,10 +52,6 @@ public class CheckYahtzeeSteps {
         given()
                 .auth().preemptive().basic("admin", "snakeeyes")
                 .body("{ \"id\": 5, \"value\": 6 }").put("/die");
-
-        given()
-                .auth().preemptive().basic("admin", "snakeeyes")
-                .body("{ \"id\": 6, \"value\": 6 }").put("/die");
     }
 
 
