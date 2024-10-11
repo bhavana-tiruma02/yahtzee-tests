@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Dice Features","Successfully retrieve the values of all five dice","SUCCESS","2024-10-10T22:05:07.1024849+01:00[Europe/London]","0.0","0.24"
+"Dice Features","Successfully roll all five dice","SUCCESS","2024-10-10T22:05:07.3549929+01:00[Europe/London]","0.0","0.18"
+"Dice Features","Roll all five dice and verify with get all dice response","SUCCESS","2024-10-10T22:05:07.5467083+01:00[Europe/London]","0.0","0.18"

@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Player Name","Successfully retrieve the player's name","SUCCESS","2024-10-10T22:05:08.1947478+01:00[Europe/London]","0.0","0.02"
+"Player Name","Successfully set a new player's name","SUCCESS","2024-10-10T22:05:08.222389+01:00[Europe/London]","0.0","0.02"
+"Player Name","Fail to set the player's name due to missing authorization","SUCCESS","2024-10-10T22:05:08.2474221+01:00[Europe/London]","0.0","0.05"
+"Player Name","Fail to set the player's name due to invalid authorization","SUCCESS","2024-10-10T22:05:08.3027379+01:00[Europe/London]","0.0","0.03"
+"Player Name","Fail to set the player's name due to invalid JSON body","SUCCESS","2024-10-10T22:05:08.3366725+01:00[Europe/London]","0.0","0.03"

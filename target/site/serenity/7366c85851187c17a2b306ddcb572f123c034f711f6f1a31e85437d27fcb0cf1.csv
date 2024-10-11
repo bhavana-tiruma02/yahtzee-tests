@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Check if Yahtzee state is achieved","All dice show the same value (Yahtzee achieved)","SUCCESS","2024-10-10T22:05:03.6818093+01:00[Europe/London]","0.0","3.23"

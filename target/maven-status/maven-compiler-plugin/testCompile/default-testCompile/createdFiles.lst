@@ -1,0 +1,5 @@
+com\sas\automation\yahtzee\steps\CheckYahtzeeSteps.class
+com\sas\automation\yahtzee\steps\PlayerSteps.class
+com\sas\automation\yahtzee\steps\DieSteps.class
+com\sas\automation\yahtzee\steps\DiceSteps.class
+com\sas\automation\yahtzee\runners\YahtzeeApiTestRunner.class

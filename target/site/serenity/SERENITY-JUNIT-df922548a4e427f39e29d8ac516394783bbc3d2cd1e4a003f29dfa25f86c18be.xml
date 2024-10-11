@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Dice Features" skipped="0" tests="3" time="0.6" timestamp="2024-10-10 10:05:07"><testcase name="Successfully retrieve the values of all five dice"/><testcase name="Successfully roll all five dice"/><testcase name="Roll all five dice and verify with get all dice response"/></testsuite>
